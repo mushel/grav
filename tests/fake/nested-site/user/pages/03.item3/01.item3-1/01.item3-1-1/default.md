@@ -1,7 +1,9 @@
 ---
 title: Animal
 taxonomy:
-    tag: [animal, cat]
+  tag:
+  - animal
+  - cat
 ---
 
 <h1>Tags: animal</h1

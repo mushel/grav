@@ -1,4 +1,7 @@
 ---
+---
+
+---
 GRAV:
   FRONTMATTER_ERROR_PAGE: "---\ntiêu đề: %1$s\n---\n\n# Error: Trang không hợp lệ\n\nĐường dẫn: `%2$s`\n\n**%3$s**\n\n```\n%4$s\n```"
   NICETIME:

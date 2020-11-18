@@ -1,4 +1,7 @@
 ---
+---
+
+---
 GRAV:
   FRONTMATTER_ERROR_PAGE: "--- title: %1$s --- # Errorea: Baliogabeko Frontmatter Bidea: `%2$s` **%3$s** ``` %4$s ```"
   NICETIME:

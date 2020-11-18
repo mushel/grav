@@ -1,4 +1,7 @@
 ---
+---
+
+---
 GRAV:
   FRONTMATTER_ERROR_PAGE: "---\ntitle: %1$s\n---\n\n# Error: Nieprawidłowy Frontmatter\n\nPath: `%2$s`\n\n**%3$s**\n\n```\n%4$s\n```"
   NICETIME:

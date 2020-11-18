@@ -1,4 +1,7 @@
 ---
+---
+
+---
 GRAV:
   FRONTMATTER_ERROR_PAGE: "---\ntitle: %1$s\n---\n\n# 錯誤： 不正確的 Frontmatter\n\n路徑： `%2$s`\n\n**%3$s**\n\n```\n%4$s\n```"
   NICETIME:
